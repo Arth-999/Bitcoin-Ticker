@@ -11,5 +11,3 @@ A crypto currency price checking app,which will be able to show you the prices o
 - How to check the platform your app is being run on to customise the UI for that platform.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
